@@ -1,0 +1,11 @@
+#Quality control: Cookie weight analysis
+## Project Objective
+This project performs a statistical comparison of the weight of batches of cookies (vanilla vs. chocolate) to assess consistency and uniformity in production,
+ identifying if there are significant deviations between both groups.
+ ## Tools Used
+- Python (Pandas for data manipulation)
+- SciPy & NumPy (for statistical analysis and distributions)
+- Matplotlib / Seaborn (for displaying histograms)
+## Results
+- The fundamental metrics (mean and standard deviation) were calculated for each cookie group.
+- The histograms allow you to see weight dispersion and check if production meets established quality standards.
